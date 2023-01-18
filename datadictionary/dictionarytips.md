@@ -8,3 +8,4 @@ https://cran.r-project.org/web/packages/dataMeta/vignettes/dataMeta_Vignette.htm
 
 http://optimumsportsperformance.com/blog/creating-a-data-dictionary-function-in-r/
 
+https://seer.cancer.gov/stdpopulations/stdpopdic.html
