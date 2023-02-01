@@ -7,5 +7,8 @@ https://book.stat420.org
 
 
 <br>
+https://bookdown.org/roback/bookdown-BeyondMLR/   
+
+<br>
 https://www.econometrics-with-r.org/index.html   
 
