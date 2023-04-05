@@ -14,3 +14,7 @@ https://www.giscloud.com/blog/gis-app-development/
 
 https://gis.harvard.edu/making-sense-out-spatial-data   
 https://gis.harvard.edu/event/gis-institute-winter-2023   
+
+
+<br>
+http://www.gisdeveloper.co.kr/?p=2332
