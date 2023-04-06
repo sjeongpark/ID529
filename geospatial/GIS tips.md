@@ -25,3 +25,7 @@ http://www.gisdeveloper.co.kr/?p=2332
 https://spatialanalysisonline.com   
 https://www.paulamoraga.com/book-geospatial-info/   
 
+
+<br>
+<br>
+http://www.bigdata-map.kr/datastory/communication/living-population   
