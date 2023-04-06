@@ -17,4 +17,8 @@ https://gis.harvard.edu/event/gis-institute-winter-2023
 
 
 <br>
-http://www.gisdeveloper.co.kr/?p=2332
+http://www.gisdeveloper.co.kr/?p=2332   
+
+
+<br>
+https://spatialanalysisonline.com   
