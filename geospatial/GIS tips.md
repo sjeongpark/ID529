@@ -21,4 +21,7 @@ http://www.gisdeveloper.co.kr/?p=2332
 
 
 <br>
+<br>
 https://spatialanalysisonline.com   
+https://www.paulamoraga.com/book-geospatial-info/   
+
